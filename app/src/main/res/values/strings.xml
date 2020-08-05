@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Yota</string>
+    <string name="moneyText">деньги</string>
+    <string name="balanceText">Баланс</string>
+    <string name="balanceNubmerText">120,8 ₽</string>
+    <string name="numberOfCard">*8878</string>
+    <string name="posterText">Недостаточно средств для продления пакета. Доступ в интернет заблокирован. Пополните счет на 450 ₽</string>
+    <string name="topUpABalance">Пополнить счет на 450 ₽</string>
+    <string name="phoneNumber">+7 999 656-88-78</string>
+    <string name="generalSum">Общая сумма на 30 дней</string>
+    <string name="generalSumNumber">450 ₽</string>
+    <string name="noLimitText">Безлимитные мобильные приложения</string>
+    <string name="restMinutes">Осталось минут</string>
+    <string name="restGb">Осталось гагайбайт</string>
+</resources>
